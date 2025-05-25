@@ -121,4 +121,6 @@ st.table(res_sorted)
 
 # # — Optional: Download —
 # st.download_button("📥 Download as CSV", data=res_sorted.to_csv(index=False), file_name="horoscope_ratings.csv")
+# Save result for React app
+res_sorted.to_json("leaderboard.json", orient="records")
 
