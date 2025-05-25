@@ -1,0 +1,282 @@
+[
+  {
+    "Player": "Ishan Kishan",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "18/07/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Cummins",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "08/05/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Abhishek Sharma",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "04/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Head",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "29/12/93",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Klaasen",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "30/07/91",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Aniket Verma",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "05/02/02",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nitish Reddy",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "26/05/03",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Abhinav Manohar",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "16/09/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harshal Patel",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "23/11/90",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jaydev Unadkat",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "18/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Eshan Malinga",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "04/02/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Harsh Dubey",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "23/07/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shami",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "03/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sachin Baby",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "18/12/88",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Zeeshan Ansari",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "16/12/99",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Simarjeet Singh",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "17/01/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Kamindu Mendis",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "30/09/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Atharva Taide",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "26/04/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Mulder",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "19/02/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Rahul Chahar",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "04/08/99",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Smaran Ravichandran",
+    "Team": "Sunrisers Hyderabad",
+    "DOB": "05/05/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Gurbaz",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "28/11/01",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ajinkya Rahane",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "06/06/88",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Narine",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "26/05/88",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Venkatesh Iyer",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "25/12/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Angkrish Raghuvanshi",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "05/06/04",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ramandeep Singh ",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "13/04/97",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Russell",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "29/04/88",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rinku Singh",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "12/10/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Vaibhav Arora",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "14/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Varun Chakaravarthy",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "29/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Nortje",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "16/11/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Spencer Johnson",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "16/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Shivam Shukla",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "11/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Harshit Rana",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "22/12/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Markande",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "11/11/97",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Anukul Roy",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "30/11/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Luvnith Sisodia",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "15/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Chetan Sakariya",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "28/02/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Manish Pandey",
+    "Team": "Kolkata Knight Riders",
+    "DOB": "10/09/89",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  }
+]

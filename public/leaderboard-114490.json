@@ -1,0 +1,198 @@
+[
+  {
+    "Player": "Stirling",
+    "Team": "Ireland",
+    "DOB": "03/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Lorcan Tucker",
+    "Team": "Ireland",
+    "DOB": "10/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Balbirnie",
+    "Team": "Ireland",
+    "DOB": "28/12/90",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Cade Carmichael",
+    "Team": "Ireland",
+    "DOB": "03/08/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Harry Tector",
+    "Team": "Ireland",
+    "DOB": "06/12/99",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Dockrell",
+    "Team": "Ireland",
+    "DOB": "22/07/92",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Andy McBrine",
+    "Team": "Ireland",
+    "DOB": "30/04/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Barry McCarthy",
+    "Team": "Ireland",
+    "DOB": "13/09/92",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Joshua Little",
+    "Team": "Ireland",
+    "DOB": "01/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Stephen Doheny",
+    "Team": "Ireland",
+    "DOB": "20/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Matthew Humphreys",
+    "Team": "Ireland",
+    "DOB": "28/09/02",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Jordan Neill",
+    "Team": "Ireland",
+    "DOB": "03/03/06",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shai Hope",
+    "Team": "West Indies",
+    "DOB": "10/11/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Brandon King",
+    "Team": "West Indies",
+    "DOB": "16/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Lewis",
+    "Team": "West Indies",
+    "DOB": "27/12/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Keacy Carty",
+    "Team": "West Indies",
+    "DOB": "19/03/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Amir Jangoo",
+    "Team": "West Indies",
+    "DOB": "14/07/97",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Justin Greaves",
+    "Team": "West Indies",
+    "DOB": "26/02/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Roston Chase",
+    "Team": "West Indies",
+    "DOB": "22/03/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Matthew Forde",
+    "Team": "West Indies",
+    "DOB": "29/04/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Motie",
+    "Team": "West Indies",
+    "DOB": "29/03/95",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Alzarri Joseph",
+    "Team": "West Indies",
+    "DOB": "20/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Jayden Seales",
+    "Team": "West Indies",
+    "DOB": "10/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "John Campbell",
+    "Team": "West Indies",
+    "DOB": "21/09/93",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shamar Joseph",
+    "Team": "West Indies",
+    "DOB": "31/08/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jewel Andrew",
+    "Team": "West Indies",
+    "DOB": "07/12/06",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Jediah Blades",
+    "Team": "West Indies",
+    "DOB": "15/04/02",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Rawl Lewis",
+    "Team": "West Indies",
+    "DOB": "05/09/74",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  }
+]

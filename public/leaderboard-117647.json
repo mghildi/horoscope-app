@@ -1,0 +1,275 @@
+[
+  {
+    "Player": "Smit Patel",
+    "Team": "United States of America",
+    "DOB": "16/05/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Monank Patel",
+    "Team": "United States of America",
+    "DOB": "01/05/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Andries Gous",
+    "Team": "United States of America",
+    "DOB": "24/11/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Saiteja Mukkamalla",
+    "Team": "United States of America",
+    "DOB": "09/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Milind Kumar",
+    "Team": "United States of America",
+    "DOB": "15/02/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shayan Jahangir",
+    "Team": "United States of America",
+    "DOB": "24/12/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Sanjay Krishnamurthi",
+    "Team": "United States of America",
+    "DOB": "02/06/03",
+    "Zodiac": "Gemini",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Harmeet Singh",
+    "Team": "United States of America",
+    "DOB": "07/09/92",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jasdeep Singh",
+    "Team": "United States of America",
+    "DOB": "10/02/93",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nosthush Kenjige",
+    "Team": "United States of America",
+    "DOB": "02/03/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Netravalkar",
+    "Team": "United States of America",
+    "DOB": "16/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "van Schalkwyk",
+    "Team": "United States of America",
+    "DOB": "05/08/88",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Aaron Jones",
+    "Team": "United States of America",
+    "DOB": "19/10/94",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Sushant Modani",
+    "Team": "United States of America",
+    "DOB": "05/01/89",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Yasir Mohammad",
+    "Team": "United States of America",
+    "DOB": "10/10/02",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Utkarsh Srivastava",
+    "Team": "United States of America",
+    "DOB": "18/02/07",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Juanoy Drysdale",
+    "Team": "United States of America",
+    "DOB": "05/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Navneet Dhaliwal",
+    "Team": "Canada",
+    "DOB": "10/10/88",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Shreyas Movva",
+    "Team": "Canada",
+    "DOB": "04/09/93",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Yuvraj Samra",
+    "Team": "Canada",
+    "DOB": "29/09/06",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Pargat Singh",
+    "Team": "Canada",
+    "DOB": "13/04/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Nicholas Kirton",
+    "Team": "Canada",
+    "DOB": "06/05/98",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Saad Bin Zafar",
+    "Team": "Canada",
+    "DOB": "10/11/86",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Shivam Sharma",
+    "Team": "Canada",
+    "DOB": "27/03/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Dilon Heyliger",
+    "Team": "Canada",
+    "DOB": "21/10/89",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kaleem Sana",
+    "Team": "Canada",
+    "DOB": "01/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Jatinderpal Matharu",
+    "Team": "Canada",
+    "DOB": "06/09/92",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Junaid Siddiqui",
+    "Team": "Canada",
+    "DOB": "25/03/85",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "J Gordon",
+    "Team": "Canada",
+    "DOB": "20/01/87",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Harsh Thaker",
+    "Team": "Canada",
+    "DOB": "24/10/97",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Rishiv Joshi",
+    "Team": "Canada",
+    "DOB": "04/11/00",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ravinderpal Singh",
+    "Team": "Canada",
+    "DOB": "14/10/88",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Akhil Kumar",
+    "Team": "Canada",
+    "DOB": "20/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ansh Patel",
+    "Team": "Canada",
+    "DOB": "19/02/02",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Aaron Johnson",
+    "Team": "Canada",
+    "DOB": "16/03/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Parveen Kumar",
+    "Team": "Canada",
+    "DOB": "29/05/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Dilpreet Bajwa",
+    "Team": "Canada",
+    "DOB": "01/04/01",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Kanwarpal Tathgur",
+    "Team": "Canada",
+    "DOB": "05/08/93",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ajayveer Hundal",
+    "Team": "Canada",
+    "DOB": "09/09/05",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  }
+]
