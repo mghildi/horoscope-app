@@ -1,44 +1,49 @@
-# horoscope_app.py
-
 import os
 import json
 import re
-import duckdb
 import pandas as pd
 import streamlit as st
 import requests
 from dotenv import load_dotenv
 
-# — Load environment variables —
+# Load environment variables
 load_dotenv()
 API_KEY = os.getenv("DEEPINFRA_API_KEY")
+DATA_DIR = "public"  # Folder with leaderboard-*.json
 
-# — Streamlit UI Setup —
+# UI Setup
 st.set_page_config(page_title="Cricket Horoscope Leaderboard", layout="centered")
-st.title("🌟 Cricket Horoscope Ratings for Today 🌟")
+st.title("🌟 Horoscope Leaderboard by Match 🌟")
 
-# — Check database —
-DB_PATH = "squads.db"
-if not os.path.exists(DB_PATH):
-    st.error("⚠️ 'squads.db' not found. Run the data ingestion script first.")
+# Step 1: List available files
+files = [f for f in os.listdir(DATA_DIR) if f.startswith("leaderboard-") and f.endswith(".json")]
+if not files:
+    st.error("No leaderboard files found in /public folder.")
     st.stop()
 
-# — Load player data from DuckDB —
-try:
-    
-    conn = duckdb.connect("squads.db")
-    df = conn.execute("SELECT * FROM players").fetchdf()
-except Exception as e:
-    st.error(f"Error loading data from DuckDB: {e}")
-    st.stop()
+# Step 2: Create dropdown to select match
+match_options = []
+match_id_to_file = {}
 
-if df.empty:
-    st.warning("No players found in database.")
-    st.stop()
+for file in files:
+    match_id = file.split("-")[1].replace(".json", "")
+    with open(os.path.join(DATA_DIR, file), "r", encoding="utf-8") as f:
+        data = json.load(f)
+        if data:
+            teams = f"{data[0]['Team']} vs {next((x['Team'] for x in data if x['Team'] != data[0]['Team']), '')}"
+            label = f"{teams} ({match_id})"
+            match_options.append(label)
+            match_id_to_file[label] = file
 
-# — Setup API connection —
+selected = st.selectbox("Select a match to view", match_options)
+
+# Step 3: Load selected match's data
+with open(os.path.join(DATA_DIR, match_id_to_file[selected]), "r", encoding="utf-8") as f:
+    df = pd.DataFrame(json.load(f))
+
+# Step 4: Call DeepInfra to rank zodiac signs
 if not API_KEY:
-    st.error("Please set DEEPINFRA_API_KEY in your .env or environment variables.")
+    st.error("Please set DEEPINFRA_API_KEY in your environment.")
     st.stop()
 
 HEADERS = {
@@ -50,7 +55,6 @@ SYSTEM_PROMPT = (
     "You are a JSON generator. Always respond with exactly one JSON object matching the asked schema. No extra text."
 )
 
-# — Helper: Call DeepInfra API to rank zodiac signs —
 def call_deepinfra(prompt: str) -> str:
     payload = {
         "model": "openchat/openchat-3.6-8b",
@@ -65,7 +69,6 @@ def call_deepinfra(prompt: str) -> str:
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"].strip()
 
-# — Helper: Extract JSON from response —
 def parse_first_json(text: str):
     cleaned = text.strip().replace("Infinity", "null")
     if cleaned.startswith('```') and cleaned.endswith('```'):
@@ -75,12 +78,10 @@ def parse_first_json(text: str):
         raise ValueError(f"No JSON object in: {cleaned}")
     return json.loads(match.group(0))
 
-# — Build zodiac to player mapping —
-zodiac_map = dict(zip(df['player'], df['zodiac']))
-signs = [s for s in zodiac_map.values() if s]
-unique_signs = sorted(set(signs))
+# Step 5: Rank zodiac signs
+zodiac_map = dict(zip(df['Player'], df['Zodiac']))
+unique_signs = sorted(set(zodiac_map.values()))
 
-# — Rank signs for today's outlook —
 if unique_signs:
     prompt = (
         "Rank these zodiac signs by today's career outlook descending: "
@@ -99,28 +100,9 @@ if unique_signs:
 else:
     rating_map = {}
 
-# — Build result table —
-results = []
-for _, row in df.iterrows():
-    zodiac = row["zodiac"]
-    rating = rating_map.get(zodiac)
-    results.append({
-        "Player": row["player"],
-        "Team": row["team"],
-        "Zodiac": zodiac,
-        "DOB": row["dob"],
-        "Rating": rating
-    })
+# Step 6: Assign prediction scale and display sorted leaderboard
+df["PredictionScale"] = df["Zodiac"].map(rating_map).fillna(0).astype(int)
+res_sorted = df.sort_values("PredictionScale", ascending=False, na_position="last")
 
-res_df = pd.DataFrame(results)
-res_sorted = res_df.sort_values("Rating", ascending=False, na_position="last")
-
-# — Display —
-st.subheader("🏏 Today's Horoscope Leaderboard")
+st.subheader(f"🏏 Horoscope Leaderboard: {selected}")
 st.table(res_sorted)
-
-# # — Optional: Download —
-# st.download_button("📥 Download as CSV", data=res_sorted.to_csv(index=False), file_name="horoscope_ratings.csv")
-# Save result for React app
-res_sorted.to_json("leaderboard.json", orient="records")
-
