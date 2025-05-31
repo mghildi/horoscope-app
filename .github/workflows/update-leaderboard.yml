@@ -5,11 +5,18 @@ on:
     - cron: "30 3 * * *"  # Runs daily at 9:00 AM IST
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Required for git push
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # ✅ We'll use our own token
+          submodules: false           # ✅ Avoid submodule issues
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,18 +37,13 @@ jobs:
       - name: Run app1.py
         run: python app1.py
 
-      - name: Configure GitHub credentials
+      - name: Configure Git and Push
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # ✅ Your Personal Access Token
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
-
-      - name: Commit and Push JSON updates
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add frontend/public/*.json
           git commit -m "Daily auto update" || echo "No changes to commit"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git push origin main
