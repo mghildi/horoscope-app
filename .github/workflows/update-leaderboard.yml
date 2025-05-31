@@ -1,4 +1,6 @@
 name: Daily Horoscope Update
+permissions:
+  contents: write
 
 on:
   schedule:
