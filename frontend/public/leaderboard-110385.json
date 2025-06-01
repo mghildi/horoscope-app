@@ -1,0 +1,198 @@
+[
+  {
+    "Player": "Brett DOliveira",
+    "Team": "Worcestershire",
+    "DOB": "28/02/92",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "G Roderick",
+    "Team": "Worcestershire",
+    "DOB": "28/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ed Pollock",
+    "Team": "Worcestershire",
+    "DOB": "10/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Kashif Ali",
+    "Team": "Worcestershire",
+    "DOB": "07/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Adam Hose",
+    "Team": "Worcestershire",
+    "DOB": "25/10/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Dwarshuis",
+    "Team": "Worcestershire",
+    "DOB": "23/06/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Tom Hinley",
+    "Team": "Worcestershire",
+    "DOB": "05/02/03",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Fateh Singh",
+    "Team": "Worcestershire",
+    "DOB": "20/04/04",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Adam Finch",
+    "Team": "Worcestershire",
+    "DOB": "28/05/00",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Jacob Duffy",
+    "Team": "Worcestershire",
+    "DOB": "02/08/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Jake Libby",
+    "Team": "Worcestershire",
+    "DOB": "03/01/93",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Henry Cullen",
+    "Team": "Worcestershire",
+    "DOB": "29/04/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ben Allison",
+    "Team": "Worcestershire",
+    "DOB": "18/12/99",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Rob Jones",
+    "Team": "Worcestershire",
+    "DOB": "03/11/95",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Malan",
+    "Team": "Yorkshire",
+    "DOB": "03/09/87",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Duke",
+    "Team": "Yorkshire",
+    "DOB": "06/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "A Lyth",
+    "Team": "Yorkshire",
+    "DOB": "25/09/87",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Will Luxton",
+    "Team": "Yorkshire",
+    "DOB": "06/05/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Wharton",
+    "Team": "Yorkshire",
+    "DOB": "01/02/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sutherland",
+    "Team": "Yorkshire",
+    "DOB": "27/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Matthew Revis",
+    "Team": "Yorkshire",
+    "DOB": "15/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Dom Bess",
+    "Team": "Yorkshire",
+    "DOB": "22/07/97",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Jafer Chohan",
+    "Team": "Yorkshire",
+    "DOB": "11/07/02",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "William ORourke",
+    "Team": "Yorkshire",
+    "DOB": "06/08/01",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "M Milnes",
+    "Team": "Yorkshire",
+    "DOB": "29/07/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Daniel Moriarty",
+    "Team": "Yorkshire",
+    "DOB": "12/02/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Tattersall",
+    "Team": "Yorkshire",
+    "DOB": "15/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jack White",
+    "Team": "Yorkshire",
+    "DOB": "19/02/92",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  }
+]

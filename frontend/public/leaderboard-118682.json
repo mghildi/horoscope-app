@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "Carlos Nunes",
+    "Team": "Portugal",
+    "DOB": "14/02/84",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sharn Gomes",
+    "Team": "Portugal",
+    "DOB": "06/08/88",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Miguel Machado",
+    "Team": "Portugal",
+    "DOB": "02/07/97",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Juan Henri",
+    "Team": "Portugal",
+    "DOB": "21/08/96",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Jalpesh Vijay",
+    "Team": "Portugal",
+    "DOB": "23/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Dhavalkumar Norotam",
+    "Team": "Portugal",
+    "DOB": "14/06/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rahulkumar Hashu",
+    "Team": "Portugal",
+    "DOB": "12/02/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Upen Shantu",
+    "Team": "Portugal",
+    "DOB": "26/04/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jeremy Martins",
+    "Team": "Portugal",
+    "DOB": "11/06/01",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sherman Vaz",
+    "Team": "Portugal",
+    "DOB": "16/04/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Hardeep Khuttan",
+    "Team": "Portugal",
+    "DOB": "20/05/89",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Natim Hassam",
+    "Team": "Portugal",
+    "DOB": "03/04/96",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Chad Potgieter",
+    "Team": "Portugal",
+    "DOB": "19/03/99",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ali Raza",
+    "Team": "Belgium",
+    "DOB": "20/01/84",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sheraz Sheikh",
+    "Team": "Belgium",
+    "DOB": "15/11/87",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Saber Zakhil",
+    "Team": "Belgium",
+    "DOB": "15/03/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shaheryar Butt",
+    "Team": "Belgium",
+    "DOB": "14/01/82",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Murid Ekrami",
+    "Team": "Belgium",
+    "DOB": "31/12/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Muhammad Muneeb",
+    "Team": "Belgium",
+    "DOB": "11/06/97",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Khalid Ahmadi",
+    "Team": "Belgium",
+    "DOB": "01/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Omid Mailk Khel",
+    "Team": "Belgium",
+    "DOB": "31/03/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Sajad Ahmadzai",
+    "Team": "Belgium",
+    "DOB": "04/03/00",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Burhan Niaz",
+    "Team": "Belgium",
+    "DOB": "27/02/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ravi Thapliyal",
+    "Team": "Belgium",
+    "DOB": "28/08/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Zaki Shah",
+    "Team": "Belgium",
+    "DOB": "15/06/88",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Hikmat Jabarkhail",
+    "Team": "Belgium",
+    "DOB": "01/09/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Iftikhar Kankhel",
+    "Team": "Belgium",
+    "DOB": "23/03/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Oliver Herrington",
+    "Team": "Belgium",
+    "DOB": "27/11/01",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rafiulah Alokozai",
+    "Team": "Belgium",
+    "DOB": "01/01/99",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  }
+]

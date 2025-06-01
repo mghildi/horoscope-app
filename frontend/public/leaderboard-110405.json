@@ -1,0 +1,191 @@
+[
+  {
+    "Player": "J Simpson",
+    "Team": "Sussex",
+    "DOB": "13/07/88",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tymal Mills",
+    "Team": "Sussex",
+    "DOB": "12/08/92",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Harrison Ward",
+    "Team": "Sussex",
+    "DOB": "25/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Daniel Hughes",
+    "Team": "Sussex",
+    "DOB": "16/02/89",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "James Coles",
+    "Team": "Sussex",
+    "DOB": "02/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Alsop",
+    "Team": "Sussex",
+    "DOB": "26/11/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Tom Clark",
+    "Team": "Sussex",
+    "DOB": "27/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Danny Lamb",
+    "Team": "Sussex",
+    "DOB": "07/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "McAndrew",
+    "Team": "Sussex",
+    "DOB": "14/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Brad Currie",
+    "Team": "Sussex",
+    "DOB": "08/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Henry Crocombe",
+    "Team": "Sussex",
+    "DOB": "20/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Bertie Foreman",
+    "Team": "Sussex",
+    "DOB": "13/05/04",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "FJ Hudson-Prentice",
+    "Team": "Sussex",
+    "DOB": "12/01/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "James Bracey",
+    "Team": "Gloucestershire",
+    "DOB": "03/05/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "J Taylor",
+    "Team": "Gloucestershire",
+    "DOB": "12/11/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "M Hammond",
+    "Team": "Gloucestershire",
+    "DOB": "11/01/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Bancroft",
+    "Team": "Gloucestershire",
+    "DOB": "19/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Oliver Price",
+    "Team": "Gloucestershire",
+    "DOB": "12/06/01",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Charlesworth",
+    "Team": "Gloucestershire",
+    "DOB": "19/11/00",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "D Arcy Short",
+    "Team": "Gloucestershire",
+    "DOB": "09/08/90",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Matt Taylor",
+    "Team": "Gloucestershire",
+    "DOB": "08/07/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "David Payne",
+    "Team": "Gloucestershire",
+    "DOB": "15/02/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Tom Smith",
+    "Team": "Gloucestershire",
+    "DOB": "29/08/87",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aman Rao",
+    "Team": "Gloucestershire",
+    "DOB": "22/06/04",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Gv Buuren",
+    "Team": "Gloucestershire",
+    "DOB": "22/08/90",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Archie Bailey",
+    "Team": "Gloucestershire",
+    "DOB": "28/06/05",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tommy Boorman",
+    "Team": "Gloucestershire",
+    "DOB": "12/04/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  }
+]

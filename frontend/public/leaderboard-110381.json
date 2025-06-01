@@ -1,0 +1,198 @@
+[
+  {
+    "Player": "Alex Lees",
+    "Team": "Durham",
+    "DOB": "14/04/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "O Robinson",
+    "Team": "Durham",
+    "DOB": "01/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Graham Clark",
+    "Team": "Durham",
+    "DOB": "19/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Ackermann",
+    "Team": "Durham",
+    "DOB": "04/04/91",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ben Raine",
+    "Team": "Durham",
+    "DOB": "14/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Neesham",
+    "Team": "Durham",
+    "DOB": "17/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "W Rhodes",
+    "Team": "Durham",
+    "DOB": "02/03/95",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Aldridge",
+    "Team": "Durham",
+    "DOB": "24/12/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Zakary Foulkes",
+    "Team": "Durham",
+    "DOB": "05/06/02",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Nathan Sowter",
+    "Team": "Durham",
+    "DOB": "12/10/92",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Callum Parkinson",
+    "Team": "Durham",
+    "DOB": "24/10/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Bas de Leede",
+    "Team": "Durham",
+    "DOB": "15/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "James Minto",
+    "Team": "Durham",
+    "DOB": "26/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "George Drissell",
+    "Team": "Durham",
+    "DOB": "20/01/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jennings",
+    "Team": "Lancashire",
+    "DOB": "19/06/92",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Matthew Hurst",
+    "Team": "Lancashire",
+    "DOB": "10/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "L Wells",
+    "Team": "Lancashire",
+    "DOB": "29/12/90",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Turner",
+    "Team": "Lancashire",
+    "DOB": "25/01/93",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Michael Jones",
+    "Team": "Lancashire",
+    "DOB": "05/01/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Chris Green",
+    "Team": "Lancashire",
+    "DOB": "01/10/93",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Blatherwick",
+    "Team": "Lancashire",
+    "DOB": "04/06/98",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Josh Bohannon",
+    "Team": "Lancashire",
+    "DOB": "09/04/97",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Charlie Barnard",
+    "Team": "Lancashire",
+    "DOB": "05/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Thomas Aspinwall",
+    "Team": "Lancashire",
+    "DOB": "13/03/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Mitchell Stanley",
+    "Team": "Lancashire",
+    "DOB": "17/03/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Balderson",
+    "Team": "Lancashire",
+    "DOB": "11/10/00",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "James Anderson",
+    "Team": "Lancashire",
+    "DOB": "30/07/82",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harry Singh",
+    "Team": "Lancashire",
+    "DOB": "16/06/04",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  }
+]
