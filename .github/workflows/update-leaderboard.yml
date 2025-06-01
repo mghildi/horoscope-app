@@ -1,7 +1,7 @@
 name: Daily Horoscope Update
 
 permissions:
-  contents: write  # ✅ Required for pushing to the repo
+  contents: write  # Required for pushing to the repo
 
 on:
   schedule:
@@ -38,13 +38,12 @@ jobs:
       - name: Run app1.py
         run: python app1.py
 
-      - name: Configure Git and Push
+      - name: Commit and Push JSON updates
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
           git add frontend/public/*.json
           git commit -m "Daily auto update" || echo "No changes to commit"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
