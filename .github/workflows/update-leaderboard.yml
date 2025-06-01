@@ -1,7 +1,7 @@
 name: Daily Horoscope Update
 
 permissions:
-  contents: write  # Required for pushing to the repo
+  contents: write
 
 on:
   schedule:
@@ -16,8 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Needed when using PAT
+          persist-credentials: false
           submodules: false
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -44,9 +45,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          
           git add frontend/public/*.json
           git commit -m "Daily auto update" || echo "No changes to commit"
-
-          # Force push using PAT
           git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
