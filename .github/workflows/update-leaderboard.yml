@@ -1,7 +1,7 @@
 name: Daily Horoscope Update
 
 permissions:
-  contents: write  # ✅ Required for git push
+  contents: write  # ✅ Required for pushing to the repo
 
 on:
   schedule:
@@ -11,11 +11,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: false  # Needed when using PAT
           submodules: false
 
       - name: Set up Python
