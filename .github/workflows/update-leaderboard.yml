@@ -44,10 +44,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
-          # Add new remote with PAT
-          git remote add authenticated-origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
-
+          
           git add frontend/public/*.json
           git commit -m "Daily auto update" || echo "No changes to commit"
-          git push authenticated-origin HEAD:main
+
+          # Force push using PAT
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
