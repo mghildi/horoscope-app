@@ -1,14 +1,12 @@
 name: Daily Horoscope Update
+
 permissions:
-  contents: write
+  contents: write  # ✅ Required for git push
 
 on:
   schedule:
     - cron: "30 3 * * *"  # Runs daily at 9:00 AM IST
   workflow_dispatch:
-
-permissions:
-  contents: write  # ✅ Required for git push
 
 jobs:
   build:
@@ -17,8 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # ✅ We'll use our own token
-          submodules: false           # ✅ Avoid submodule issues
+          persist-credentials: false
+          submodules: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -41,7 +39,7 @@ jobs:
 
       - name: Configure Git and Push
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # ✅ Your Personal Access Token
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
