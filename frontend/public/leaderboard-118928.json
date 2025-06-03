@@ -1,0 +1,324 @@
+[
+  {
+    "Player": "Rajat Patidar",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "01/06/93",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Jitesh Sharma",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "22/10/93",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Phil Salt",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "28/08/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Kohli",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "05/11/88",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Mayank Agarawal",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "16/02/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Livingstone",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "04/08/93",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Romario Shepherd",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "26/11/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Krunal Pandya",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "24/03/91",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Bhuvneshwar",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "05/02/90",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Yash Dayal",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "13/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Hazlewood",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "08/01/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Suyash Sharma",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "15/05/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rasikh Salam",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "05/04/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Manoj Bhandage",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "05/10/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Seifert",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "14/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Swapnil Singh",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "22/01/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Tim David",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "16/03/96",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Muzarabani",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "02/10/96",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "N Thushara",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "06/08/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Mohit Rathee",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "13/01/99",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Swastik Chikara",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "03/04/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Abhinandan Singh",
+    "Team": "Royal Challengers Bengaluru",
+    "DOB": "30/03/97",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Josh Inglis",
+    "Team": "Punjab Kings",
+    "DOB": "04/03/95",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Shreyas Iyer",
+    "Team": "Punjab Kings",
+    "DOB": "06/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Priyansh Arya",
+    "Team": "Punjab Kings",
+    "DOB": "18/01/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Prabhsimran",
+    "Team": "Punjab Kings",
+    "DOB": "10/08/00",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Nehal Wadhera",
+    "Team": "Punjab Kings",
+    "DOB": "04/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Shashank Singh",
+    "Team": "Punjab Kings",
+    "DOB": "21/11/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Stoinis",
+    "Team": "Punjab Kings",
+    "DOB": "16/08/89",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Azmatullah",
+    "Team": "Punjab Kings",
+    "DOB": "24/03/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Jamieson",
+    "Team": "Punjab Kings",
+    "DOB": "30/12/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Vijaykumar Vyshak",
+    "Team": "Punjab Kings",
+    "DOB": "31/01/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Arshdeep Singh",
+    "Team": "Punjab Kings",
+    "DOB": "05/02/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Chahal",
+    "Team": "Punjab Kings",
+    "DOB": "23/07/90",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Harpreet Brar",
+    "Team": "Punjab Kings",
+    "DOB": "16/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Suryansh Shedge",
+    "Team": "Punjab Kings",
+    "DOB": "29/01/03",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Praveen Dubey",
+    "Team": "Punjab Kings",
+    "DOB": "01/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Xavier Bartlett",
+    "Team": "Punjab Kings",
+    "DOB": "17/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Vishnu Vinod",
+    "Team": "Punjab Kings",
+    "DOB": "02/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Yash Thakur",
+    "Team": "Punjab Kings",
+    "DOB": "28/12/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Aaron Hardie",
+    "Team": "Punjab Kings",
+    "DOB": "07/01/99",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Kuldeep Sen",
+    "Team": "Punjab Kings",
+    "DOB": "22/10/96",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Mitchell Owen",
+    "Team": "Punjab Kings",
+    "DOB": "16/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harnoor Singh",
+    "Team": "Punjab Kings",
+    "DOB": "30/01/03",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Musheer Khan",
+    "Team": "Punjab Kings",
+    "DOB": "27/02/05",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Pyla Avinash",
+    "Team": "Punjab Kings",
+    "DOB": "07/07/00",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  }
+]
