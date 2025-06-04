@@ -1,0 +1,226 @@
+[
+  {
+    "Player": "Shivam Dube",
+    "Team": "ARCS Andheri",
+    "DOB": "26/06/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Prasad Pawar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/01/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Herwadkar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Siddid Tiwari",
+    "Team": "ARCS Andheri",
+    "DOB": "21/02/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Musheer Khan",
+    "Team": "ARCS Andheri",
+    "DOB": "27/02/05",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Prasoon Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "10/10/08",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Monil Soni",
+    "Team": "ARCS Andheri",
+    "DOB": "12/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Onkar Jadhav",
+    "Team": "ARCS Andheri",
+    "DOB": "09/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Pragnesh Kanpillewar",
+    "Team": "ARCS Andheri",
+    "DOB": "29/09/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sandeep K",
+    "Team": "ARCS Andheri",
+    "DOB": "12/03/84",
+    "Zodiac": "Pisces",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Aishwary Surve",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Saksham Jha",
+    "Team": "ARCS Andheri",
+    "DOB": "09/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Deepak Shetty",
+    "Team": "ARCS Andheri",
+    "DOB": "28/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Himanshu Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "24/07/03",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Badrey Alam",
+    "Team": "ARCS Andheri",
+    "DOB": "07/05/92",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Moin Naushad Ahmed",
+    "Team": "ARCS Andheri",
+    "DOB": "21/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ajay Mishra",
+    "Team": "ARCS Andheri",
+    "DOB": "01/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Raza Mirza",
+    "Team": "ARCS Andheri",
+    "DOB": "07/10/07",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Angkrish Raghuvanshi",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "05/06/04",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kush Kariya",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "09/08/04",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Shreyanssh Rai",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "02/08/08",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Vinayak Bhoir",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "02/09/88",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harsh Aghav",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "06/01/07",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Mayuresh Tandel",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "22/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Akash Parkar",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "20/05/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Siddharth Raut",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "24/06/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Prathamesh Dake",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "01/01/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Nikhil Giri ",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "10/07/04",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Amol Tarpure",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "01/06/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ishan Mulchandani",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "28/03/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nishit Balla",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "24/01/06",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sai Chavan",
+    "Team": "SoBo Mumbai Falcons",
+    "DOB": "02/07/03",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  }
+]

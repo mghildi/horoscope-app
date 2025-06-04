@@ -1,0 +1,275 @@
+[
+  {
+    "Player": "Edwards",
+    "Team": "Netherlands",
+    "DOB": "23/08/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Michael Levitt",
+    "Team": "Netherlands",
+    "DOB": "19/06/03",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Max ODowd",
+    "Team": "Netherlands",
+    "DOB": "04/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Zach Lion Cachet",
+    "Team": "Netherlands",
+    "DOB": "15/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Teja Nidamanuru",
+    "Team": "Netherlands",
+    "DOB": "22/08/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Bas de Leede",
+    "Team": "Netherlands",
+    "DOB": "15/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Noah Croes",
+    "Team": "Netherlands",
+    "DOB": "13/12/99",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Kyle Klein",
+    "Team": "Netherlands",
+    "DOB": "03/07/01",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "van der Merwe",
+    "Team": "Netherlands",
+    "DOB": "31/12/84",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Fred Klaassen",
+    "Team": "Netherlands",
+    "DOB": "13/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Paul van Meekeren",
+    "Team": "Netherlands",
+    "DOB": "15/01/93",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Barresi",
+    "Team": "Netherlands",
+    "DOB": "03/05/84",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "van der Gugten",
+    "Team": "Netherlands",
+    "DOB": "25/02/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Kingma",
+    "Team": "Netherlands",
+    "DOB": "23/10/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ackermann",
+    "Team": "Netherlands",
+    "DOB": "04/04/91",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Clayton Floyd",
+    "Team": "Netherlands",
+    "DOB": "07/08/96",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Vikramjit Singh",
+    "Team": "Netherlands",
+    "DOB": "09/01/03",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Aryan Dutt",
+    "Team": "Netherlands",
+    "DOB": "12/05/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Musa Ahmed",
+    "Team": "Netherlands",
+    "DOB": "10/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ryan Klein",
+    "Team": "Netherlands",
+    "DOB": "15/06/97",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Shariz Ahmad",
+    "Team": "Netherlands",
+    "DOB": "21/04/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aarif Sheikh",
+    "Team": "Nepal",
+    "DOB": "04/10/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rohit Paudel",
+    "Team": "Nepal",
+    "DOB": "02/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Kushal Bhurtel",
+    "Team": "Nepal",
+    "DOB": "22/01/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Bhim Sharki",
+    "Team": "Nepal",
+    "DOB": "26/09/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Aasif Sheikh",
+    "Team": "Nepal",
+    "DOB": "22/06/01",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Dipendra Singh",
+    "Team": "Nepal",
+    "DOB": "24/01/00",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Gulsan Jha",
+    "Team": "Nepal",
+    "DOB": "17/02/06",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sompal Kami",
+    "Team": "Nepal",
+    "DOB": "02/02/96",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Karan KC",
+    "Team": "Nepal",
+    "DOB": "10/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Lamichhane",
+    "Team": "Nepal",
+    "DOB": "02/08/00",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Anil Sah",
+    "Team": "Nepal",
+    "DOB": "17/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Rajbanshi",
+    "Team": "Nepal",
+    "DOB": "27/02/99",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Basir Ahamad",
+    "Team": "Nepal",
+    "DOB": "11/09/03",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Arjun Saud",
+    "Team": "Nepal",
+    "DOB": "29/06/03",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Dev Khanal",
+    "Team": "Nepal",
+    "DOB": "29/05/05",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kushal Malla",
+    "Team": "Nepal",
+    "DOB": "05/03/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Surya Tamang",
+    "Team": "Nepal",
+    "DOB": "30/09/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Pawan Sarraf",
+    "Team": "Nepal",
+    "DOB": "17/12/00",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  }
+]
