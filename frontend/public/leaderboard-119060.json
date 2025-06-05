@@ -1,0 +1,233 @@
+[
+  {
+    "Player": "Ashwin",
+    "Team": "Dindigul Dragons",
+    "DOB": "17/09/86",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Indrajith",
+    "Team": "Dindigul Dragons",
+    "DOB": "08/07/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Shivam Singh",
+    "Team": "Dindigul Dragons",
+    "DOB": "25/11/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Vimal Khumar",
+    "Team": "Dindigul Dragons",
+    "DOB": "03/12/00",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rajwinder Singh",
+    "Team": "Dindigul Dragons",
+    "DOB": "07/05/89",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Warrier",
+    "Team": "Dindigul Dragons",
+    "DOB": "04/04/91",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "DT Chandrasekar",
+    "Team": "Dindigul Dragons",
+    "DOB": "09/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Maan Bafna",
+    "Team": "Dindigul Dragons",
+    "DOB": "03/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Varun Chakaravarthy",
+    "Team": "Dindigul Dragons",
+    "DOB": "29/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "G Periyaswamy",
+    "Team": "Dindigul Dragons",
+    "DOB": "05/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "M Karthik Saran",
+    "Team": "Dindigul Dragons",
+    "DOB": "20/07/96",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "M Viju Arul",
+    "Team": "Dindigul Dragons",
+    "DOB": "26/05/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "R K Jayant",
+    "Team": "Dindigul Dragons",
+    "DOB": "17/02/05",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Atul Vitkar",
+    "Team": "Dindigul Dragons",
+    "DOB": "30/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shahrukh Khan",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "27/05/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Lokeshwar",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "03/03/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sai Sudharsan",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "15/10/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Andre Siddarth C",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "28/08/06",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "B Sachin",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "30/08/03",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "R Rohit",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "03/05/92",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Vishal Vaidhya",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "24/02/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "J Subramanyan",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "16/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "M Siddharth",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "03/07/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "R Divakar",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "11/07/96",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Jitendra Kumar",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "26/11/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "P Bhuvaneswaran",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "11/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "P Vidyuth",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "20/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "N Kabilan",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "09/07/01",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Madhava Prasad",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "13/06/05",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Guru Raghavendran",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "20/03/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Govinth G",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "26/01/04",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Pradheep Vishal",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "06/11/03",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ambrish",
+    "Team": "Lyca Kovai Kings",
+    "DOB": "28/05/07",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  }
+]

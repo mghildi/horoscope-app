@@ -1,0 +1,247 @@
+[
+  {
+    "Player": "Stevie Eskinazi",
+    "Team": "Middlesex",
+    "DOB": "28/03/94",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Jack Davies",
+    "Team": "Middlesex",
+    "DOB": "30/03/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Williamson",
+    "Team": "Middlesex",
+    "DOB": "08/08/90",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ben Geddes",
+    "Team": "Middlesex",
+    "DOB": "31/07/01",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Leus du Plooy",
+    "Team": "Middlesex",
+    "DOB": "12/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ryan Higgins",
+    "Team": "Middlesex",
+    "DOB": "06/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Hollman",
+    "Team": "Middlesex",
+    "DOB": "16/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Josh De Caires",
+    "Team": "Middlesex",
+    "DOB": "25/04/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Zafar Gohar",
+    "Team": "Middlesex",
+    "DOB": "01/02/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Tom Helm",
+    "Team": "Middlesex",
+    "DOB": "07/05/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Noah Cornwell",
+    "Team": "Middlesex",
+    "DOB": "10/09/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Aaryan Sawant",
+    "Team": "Middlesex",
+    "DOB": "15/11/05",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Naavya Sharma",
+    "Team": "Middlesex",
+    "DOB": "10/09/05",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sebastian Morgan",
+    "Team": "Middlesex",
+    "DOB": "30/08/07",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Nathan Fernandes",
+    "Team": "Middlesex",
+    "DOB": "26/04/04",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Cracknell",
+    "Team": "Middlesex",
+    "DOB": "16/03/00",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Blake Cullen",
+    "Team": "Middlesex",
+    "DOB": "19/02/02",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Billings",
+    "Team": "Kent",
+    "DOB": "15/06/91",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "T Muyeye",
+    "Team": "Kent",
+    "DOB": "05/03/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "D Bell-Drummond",
+    "Team": "Kent",
+    "DOB": "04/08/93",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Zak Crawley",
+    "Team": "Kent",
+    "DOB": "03/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jaydn Denly",
+    "Team": "Kent",
+    "DOB": "05/01/06",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Benjamin",
+    "Team": "Kent",
+    "DOB": "29/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Stewart",
+    "Team": "Kent",
+    "DOB": "19/02/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tom Rogers",
+    "Team": "Kent",
+    "DOB": "03/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Matthew Parkinson",
+    "Team": "Kent",
+    "DOB": "24/10/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Fred Klaassen",
+    "Team": "Kent",
+    "DOB": "13/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "N Gilchrist",
+    "Team": "Kent",
+    "DOB": "11/06/00",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "J Denly",
+    "Team": "Kent",
+    "DOB": "16/03/86",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Matthew Quinn",
+    "Team": "Kent",
+    "DOB": "28/02/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "H Finch",
+    "Team": "Kent",
+    "DOB": "10/02/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jack Leaning",
+    "Team": "Kent",
+    "DOB": "18/10/93",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Wes Agar",
+    "Team": "Kent",
+    "DOB": "05/02/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "ORiordan",
+    "Team": "Kent",
+    "DOB": "25/01/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Joey Evison",
+    "Team": "Kent",
+    "DOB": "14/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  }
+]
