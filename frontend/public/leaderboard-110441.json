@@ -1,0 +1,191 @@
+[
+  {
+    "Player": "Alex Davies",
+    "Team": "Warwickshire",
+    "DOB": "23/08/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Latham",
+    "Team": "Warwickshire",
+    "DOB": "02/04/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Moeen",
+    "Team": "Warwickshire",
+    "DOB": "18/06/87",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Sam Hain",
+    "Team": "Warwickshire",
+    "DOB": "16/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Ed Barnard",
+    "Team": "Warwickshire",
+    "DOB": "20/11/95",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Kai Smith",
+    "Team": "Warwickshire",
+    "DOB": "28/11/04",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "George Garton",
+    "Team": "Warwickshire",
+    "DOB": "15/04/97",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "D Briggs",
+    "Team": "Warwickshire",
+    "DOB": "30/04/91",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "J Lintott",
+    "Team": "Warwickshire",
+    "DOB": "22/04/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Craig Miles",
+    "Team": "Warwickshire",
+    "DOB": "20/07/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Mousley",
+    "Team": "Warwickshire",
+    "DOB": "08/07/01",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "O Hannon-Dalby",
+    "Team": "Warwickshire",
+    "DOB": "20/06/89",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Robert Yates",
+    "Team": "Warwickshire",
+    "DOB": "19/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Hamza Shaikh",
+    "Team": "Warwickshire",
+    "DOB": "29/05/06",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Malan",
+    "Team": "Yorkshire",
+    "DOB": "03/09/87",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Duke",
+    "Team": "Yorkshire",
+    "DOB": "06/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "A Lyth",
+    "Team": "Yorkshire",
+    "DOB": "25/09/87",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Will Luxton",
+    "Team": "Yorkshire",
+    "DOB": "06/05/03",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Wharton",
+    "Team": "Yorkshire",
+    "DOB": "01/02/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "M Milnes",
+    "Team": "Yorkshire",
+    "DOB": "29/07/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Dom Bess",
+    "Team": "Yorkshire",
+    "DOB": "22/07/97",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Jafer Chohan",
+    "Team": "Yorkshire",
+    "DOB": "11/07/02",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Daniel Moriarty",
+    "Team": "Yorkshire",
+    "DOB": "12/02/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ben Coad",
+    "Team": "Yorkshire",
+    "DOB": "10/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "William ORourke",
+    "Team": "Yorkshire",
+    "DOB": "06/08/01",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Tattersall",
+    "Team": "Yorkshire",
+    "DOB": "15/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Benjamin Cliff",
+    "Team": "Yorkshire",
+    "DOB": "23/10/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  }
+]

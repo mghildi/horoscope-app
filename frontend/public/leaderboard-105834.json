@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "Jos Buttler",
+    "Team": "England",
+    "DOB": "08/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harry Brook",
+    "Team": "England",
+    "DOB": "22/02/99",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tom Banton",
+    "Team": "England",
+    "DOB": "11/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Duckett",
+    "Team": "England",
+    "DOB": "17/10/94",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Jacob Bethell",
+    "Team": "England",
+    "DOB": "23/10/03",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Liam Dawson",
+    "Team": "England",
+    "DOB": "01/03/90",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Will Jacks",
+    "Team": "England",
+    "DOB": "21/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Brydon Carse",
+    "Team": "England",
+    "DOB": "31/07/95",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Adil Rashid",
+    "Team": "England",
+    "DOB": "17/02/88",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Matthew Potts",
+    "Team": "England",
+    "DOB": "29/10/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Saqib Mahmood",
+    "Team": "England",
+    "DOB": "25/02/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Rehan Ahmed",
+    "Team": "England",
+    "DOB": "13/08/04",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Luke Wood",
+    "Team": "England",
+    "DOB": "02/08/95",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Jamie Smith",
+    "Team": "England",
+    "DOB": "12/07/00",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Shai Hope",
+    "Team": "West Indies",
+    "DOB": "10/11/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Lewis",
+    "Team": "West Indies",
+    "DOB": "27/12/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Brandon King",
+    "Team": "West Indies",
+    "DOB": "16/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rovman Powell",
+    "Team": "West Indies",
+    "DOB": "23/07/93",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Sherfane Rutherford",
+    "Team": "West Indies",
+    "DOB": "15/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Roston Chase",
+    "Team": "West Indies",
+    "DOB": "22/03/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Russell",
+    "Team": "West Indies",
+    "DOB": "29/04/88",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Romario Shepherd",
+    "Team": "West Indies",
+    "DOB": "26/11/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Holder",
+    "Team": "West Indies",
+    "DOB": "05/11/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Akeal Hosein",
+    "Team": "West Indies",
+    "DOB": "25/04/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Alzarri Joseph",
+    "Team": "West Indies",
+    "DOB": "20/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Matthew Forde",
+    "Team": "West Indies",
+    "DOB": "29/04/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Motie",
+    "Team": "West Indies",
+    "DOB": "29/03/95",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Hetmyer",
+    "Team": "West Indies",
+    "DOB": "26/12/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "J Charles",
+    "Team": "West Indies",
+    "DOB": "14/01/89",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "Aneurin Donald",
+    "Team": "Derbyshire",
+    "DOB": "20/12/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Samit Patel",
+    "Team": "Derbyshire",
+    "DOB": "30/11/84",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Caleb Jewell",
+    "Team": "Derbyshire",
+    "DOB": "21/04/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "D Lloyd",
+    "Team": "Derbyshire",
+    "DOB": "15/06/92",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "W Madsen",
+    "Team": "Derbyshire",
+    "DOB": "02/01/84",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ross Whiteley",
+    "Team": "Derbyshire",
+    "DOB": "13/09/88",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Andersson",
+    "Team": "Derbyshire",
+    "DOB": "06/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Zak Chappell",
+    "Team": "Derbyshire",
+    "DOB": "21/08/96",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ben Aitchison",
+    "Team": "Derbyshire",
+    "DOB": "06/07/99",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Patrick Brown",
+    "Team": "Derbyshire",
+    "DOB": "23/08/98",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "AM Ghazanfar",
+    "Team": "Derbyshire",
+    "DOB": "20/03/06",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Brooke Guest",
+    "Team": "Derbyshire",
+    "DOB": "14/05/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Nick Potts",
+    "Team": "Derbyshire",
+    "DOB": "17/07/02",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Thomson",
+    "Team": "Derbyshire",
+    "DOB": "30/10/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Joe Clarke",
+    "Team": "Nottinghamshire",
+    "DOB": "26/05/96",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Tom Moores",
+    "Team": "Nottinghamshire",
+    "DOB": "04/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Lyndon James",
+    "Team": "Nottinghamshire",
+    "DOB": "27/12/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Jack Haynes",
+    "Team": "Nottinghamshire",
+    "DOB": "30/01/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Henriques",
+    "Team": "Nottinghamshire",
+    "DOB": "01/02/87",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Daniel Sams",
+    "Team": "Nottinghamshire",
+    "DOB": "27/10/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Patterson-White",
+    "Team": "Nottinghamshire",
+    "DOB": "08/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Montgomery",
+    "Team": "Nottinghamshire",
+    "DOB": "10/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Conor McKerr",
+    "Team": "Nottinghamshire",
+    "DOB": "19/01/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Calvin Harrison",
+    "Team": "Nottinghamshire",
+    "DOB": "29/04/98",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Pennington",
+    "Team": "Nottinghamshire",
+    "DOB": "26/02/99",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sam King",
+    "Team": "Nottinghamshire",
+    "DOB": "12/01/03",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Robert Lord",
+    "Team": "Nottinghamshire",
+    "DOB": "04/05/01",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Benjamin Martindale",
+    "Team": "Nottinghamshire",
+    "DOB": "12/12/02",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Freddie McCann",
+    "Team": "Nottinghamshire",
+    "DOB": "19/04/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  }
+]

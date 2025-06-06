@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "J Simpson",
+    "Team": "Sussex",
+    "DOB": "13/07/88",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Tymal Mills",
+    "Team": "Sussex",
+    "DOB": "12/08/92",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Harrison Ward",
+    "Team": "Sussex",
+    "DOB": "25/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Daniel Hughes",
+    "Team": "Sussex",
+    "DOB": "16/02/89",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "James Coles",
+    "Team": "Sussex",
+    "DOB": "02/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Alsop",
+    "Team": "Sussex",
+    "DOB": "26/11/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Tom Clark",
+    "Team": "Sussex",
+    "DOB": "27/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "McAndrew",
+    "Team": "Sussex",
+    "DOB": "14/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Robinson",
+    "Team": "Sussex",
+    "DOB": "01/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Brad Currie",
+    "Team": "Sussex",
+    "DOB": "08/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Henry Crocombe",
+    "Team": "Sussex",
+    "DOB": "20/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Danny Lamb",
+    "Team": "Sussex",
+    "DOB": "07/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Bertie Foreman",
+    "Team": "Sussex",
+    "DOB": "13/05/04",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "FJ Hudson-Prentice",
+    "Team": "Sussex",
+    "DOB": "12/01/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "George Thomas",
+    "Team": "Sussex",
+    "DOB": "14/11/03",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Kohler-Cadmore",
+    "Team": "Somerset",
+    "DOB": "19/08/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "L Gregory",
+    "Team": "Somerset",
+    "DOB": "24/05/92",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Will Smeed",
+    "Team": "Somerset",
+    "DOB": "26/10/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Lammonby",
+    "Team": "Somerset",
+    "DOB": "02/06/00",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Abell",
+    "Team": "Somerset",
+    "DOB": "05/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Thomas Rew",
+    "Team": "Somerset",
+    "DOB": "29/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ben Green",
+    "Team": "Somerset",
+    "DOB": "28/09/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Craig Overton",
+    "Team": "Somerset",
+    "DOB": "10/04/94",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Goldsworthy",
+    "Team": "Somerset",
+    "DOB": "08/01/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Matt Henry",
+    "Team": "Somerset",
+    "DOB": "14/12/91",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Riley Meredith",
+    "Team": "Somerset",
+    "DOB": "21/06/96",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Davey",
+    "Team": "Somerset",
+    "DOB": "03/08/90",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Umeed",
+    "Team": "Somerset",
+    "DOB": "19/04/96",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Jack Leach",
+    "Team": "Somerset",
+    "DOB": "22/06/91",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  }
+]

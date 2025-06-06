@@ -1,0 +1,226 @@
+[
+  {
+    "Player": "James Rew",
+    "Team": "England Lions",
+    "DOB": "11/01/04",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Tom Haines",
+    "Team": "England Lions",
+    "DOB": "28/10/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "McKinney",
+    "Team": "England Lions",
+    "DOB": "04/10/04",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Emilio Gay",
+    "Team": "England Lions",
+    "DOB": "14/04/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Max Holden",
+    "Team": "England Lions",
+    "DOB": "18/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jordan Cox",
+    "Team": "England Lions",
+    "DOB": "21/10/00",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Chris Woakes",
+    "Team": "England Lions",
+    "DOB": "02/03/89",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Josh Tongue",
+    "Team": "England Lions",
+    "DOB": "15/11/97",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ajeet Dale",
+    "Team": "England Lions",
+    "DOB": "02/07/00",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Farhan Ahmed",
+    "Team": "England Lions",
+    "DOB": "22/02/08",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Rocky Flintoff",
+    "Team": "England Lions",
+    "DOB": "07/04/08",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Eddie Jack",
+    "Team": "England Lions",
+    "DOB": "09/09/05",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "George Hill",
+    "Team": "England Lions",
+    "DOB": "24/01/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Abhimanyu Easwaran",
+    "Team": "India A",
+    "DOB": "06/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Dhruv Jurel",
+    "Team": "India A",
+    "DOB": "21/01/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Yashasvi Jaiswal",
+    "Team": "India A",
+    "DOB": "28/12/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Karun Nair",
+    "Team": "India A",
+    "DOB": "06/12/91",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sarfaraz Khan",
+    "Team": "India A",
+    "DOB": "22/10/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Nitish Reddy",
+    "Team": "India A",
+    "DOB": "26/05/03",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Thakur",
+    "Team": "India A",
+    "DOB": "16/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Harsh Dubey",
+    "Team": "India A",
+    "DOB": "23/07/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Anshul Kamboj",
+    "Team": "India A",
+    "DOB": "06/12/00",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Harshit Rana",
+    "Team": "India A",
+    "DOB": "22/12/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Mukesh Kumar",
+    "Team": "India A",
+    "DOB": "12/10/93",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rahul",
+    "Team": "India A",
+    "DOB": "18/04/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Ishan Kishan",
+    "Team": "India A",
+    "DOB": "18/07/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Khaleel Ahmed",
+    "Team": "India A",
+    "DOB": "05/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Tushar Deshpande",
+    "Team": "India A",
+    "DOB": "15/05/95",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Akash Deep",
+    "Team": "India A",
+    "DOB": "15/12/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Manav Suthar",
+    "Team": "India A",
+    "DOB": "03/08/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Tanush Kotian",
+    "Team": "India A",
+    "DOB": "16/10/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ruturaj Gaikwad",
+    "Team": "India A",
+    "DOB": "31/01/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  }
+]

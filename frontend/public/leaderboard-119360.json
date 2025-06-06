@@ -1,0 +1,247 @@
+[
+  {
+    "Player": "Prasad Pawar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/01/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shivam Dube",
+    "Team": "ARCS Andheri",
+    "DOB": "26/06/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Musheer Khan",
+    "Team": "ARCS Andheri",
+    "DOB": "27/02/05",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Raza Mirza",
+    "Team": "ARCS Andheri",
+    "DOB": "07/10/07",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Herwadkar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Pragnesh Kanpillewar",
+    "Team": "ARCS Andheri",
+    "DOB": "29/09/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Onkar Jadhav",
+    "Team": "ARCS Andheri",
+    "DOB": "09/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Himanshu Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "24/07/03",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ajay Mishra",
+    "Team": "ARCS Andheri",
+    "DOB": "01/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Aishwary Surve",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Deepak Shetty",
+    "Team": "ARCS Andheri",
+    "DOB": "28/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Badrey Alam",
+    "Team": "ARCS Andheri",
+    "DOB": "07/05/92",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Saksham Jha",
+    "Team": "ARCS Andheri",
+    "DOB": "09/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Monil Soni",
+    "Team": "ARCS Andheri",
+    "DOB": "12/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sandeep K",
+    "Team": "ARCS Andheri",
+    "DOB": "12/03/84",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Moin Naushad Ahmed",
+    "Team": "ARCS Andheri",
+    "DOB": "21/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Siddid Tiwari",
+    "Team": "ARCS Andheri",
+    "DOB": "21/02/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Prasoon Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "10/10/08",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Prithvi Shaw",
+    "Team": "North Mumbai Panthers",
+    "DOB": "09/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harsh Rane",
+    "Team": "North Mumbai Panthers",
+    "DOB": "26/11/02",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Harshal Jadhav",
+    "Team": "North Mumbai Panthers",
+    "DOB": "16/10/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Divyansh Saxena",
+    "Team": "North Mumbai Panthers",
+    "DOB": "13/02/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Gaurav Jathar",
+    "Team": "North Mumbai Panthers",
+    "DOB": "30/01/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ayush Vartak",
+    "Team": "North Mumbai Panthers",
+    "DOB": "29/10/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sourabh Singh",
+    "Team": "North Mumbai Panthers",
+    "DOB": "21/11/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Mohit Avasthi",
+    "Team": "North Mumbai Panthers",
+    "DOB": "18/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Alim Shaikh",
+    "Team": "North Mumbai Panthers",
+    "DOB": "07/06/98",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Muzzamil Kadri",
+    "Team": "North Mumbai Panthers",
+    "DOB": "25/10/03",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Pravesh Pal",
+    "Team": "North Mumbai Panthers",
+    "DOB": "27/03/03",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Dharsh Murkute",
+    "Team": "North Mumbai Panthers",
+    "DOB": "04/06/07",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Pratik Mishra",
+    "Team": "North Mumbai Panthers",
+    "DOB": "25/01/01",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Prince Badiani",
+    "Team": "North Mumbai Panthers",
+    "DOB": "17/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Abhigyan Kundu",
+    "Team": "North Mumbai Panthers",
+    "DOB": "30/04/08",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Khizer Dafedar",
+    "Team": "North Mumbai Panthers",
+    "DOB": "10/10/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Tanush Kotian",
+    "Team": "North Mumbai Panthers",
+    "DOB": "16/10/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  }
+]
