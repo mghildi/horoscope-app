@@ -1,0 +1,359 @@
+[
+  {
+    "Player": "Rushabh Rathod",
+    "Team": "Raigad Royals",
+    "DOB": "25/07/94",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Siddhesh Veer",
+    "Team": "Raigad Royals",
+    "DOB": "21/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Harsh Mogaveera",
+    "Team": "Raigad Royals",
+    "DOB": "24/07/03",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Digvijay Patil",
+    "Team": "Raigad Royals",
+    "DOB": "13/08/05",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Harsh Sanghvi",
+    "Team": "Raigad Royals",
+    "DOB": "29/05/98",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rugved More",
+    "Team": "Raigad Royals",
+    "DOB": "25/02/02",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Ajay Borude",
+    "Team": "Raigad Royals",
+    "DOB": "11/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Tanay Sanghvi ",
+    "Team": "Raigad Royals",
+    "DOB": "13/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Vicky Ostwal",
+    "Team": "Raigad Royals",
+    "DOB": "01/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Nikhil Kadam",
+    "Team": "Raigad Royals",
+    "DOB": "15/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Hitesh Walunj",
+    "Team": "Raigad Royals",
+    "DOB": "03/04/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Sagar Jadhav",
+    "Team": "Raigad Royals",
+    "DOB": "04/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Savya Gajraj",
+    "Team": "Raigad Royals",
+    "DOB": "14/06/98",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Nadeem Shaikh",
+    "Team": "Raigad Royals",
+    "DOB": "18/04/99",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Niraj Joshi",
+    "Team": "Raigad Royals",
+    "DOB": "08/10/05",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "NimirJoshi",
+    "Team": "Raigad Royals",
+    "DOB": "13/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ravindhra Jadhav",
+    "Team": "Raigad Royals",
+    "DOB": "12/11/95",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Omkar Khatpe",
+    "Team": "Raigad Royals",
+    "DOB": "02/10/97",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Shubham Kadam",
+    "Team": "Raigad Royals",
+    "DOB": "26/12/07",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ranveer Chauhan",
+    "Team": "Raigad Royals",
+    "DOB": "13/02/05",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Utkarsh Hajare",
+    "Team": "Raigad Royals",
+    "DOB": "05/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Vedant Kadu",
+    "Team": "Raigad Royals",
+    "DOB": "21/07/06",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Vaibhav Agam",
+    "Team": "Raigad Royals",
+    "DOB": "09/01/06",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Onkar Rajput",
+    "Team": "Raigad Royals",
+    "DOB": "13/09/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sneihal Khamankar",
+    "Team": "Raigad Royals",
+    "DOB": "12/07/90",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Neeraj More",
+    "Team": "Raigad Royals",
+    "DOB": "23/05/99",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Suraj Shinde",
+    "Team": "Puneri Bappa",
+    "DOB": "18/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Yash Kshirsagar",
+    "Team": "Puneri Bappa",
+    "DOB": "17/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Yash Nahar",
+    "Team": "Puneri Bappa",
+    "DOB": "10/10/94",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Murtaza Trunkwala",
+    "Team": "Puneri Bappa",
+    "DOB": "20/06/96",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Sahil Autade",
+    "Team": "Puneri Bappa",
+    "DOB": "01/08/04",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Naushad Shaikh",
+    "Team": "Puneri Bappa",
+    "DOB": "15/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ramakrishna Ghosh",
+    "Team": "Puneri Bappa",
+    "DOB": "28/08/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Rushikesh Sonawane",
+    "Team": "Puneri Bappa",
+    "DOB": "12/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "N Dhumal",
+    "Team": "Puneri Bappa",
+    "DOB": "04/07/91",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Roshan Waghsare",
+    "Team": "Puneri Bappa",
+    "DOB": "07/09/03",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sachin Bhosale",
+    "Team": "Puneri Bappa",
+    "DOB": "02/01/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Rohan Kharat",
+    "Team": "Puneri Bappa",
+    "DOB": "05/06/02",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ruturaj Gaikwad",
+    "Team": "Puneri Bappa",
+    "DOB": "31/01/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Yash Jadhav",
+    "Team": "Puneri Bappa",
+    "DOB": "18/06/99",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Aarya Desai",
+    "Team": "Puneri Bappa",
+    "DOB": "03/04/03",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Sohan Jamale",
+    "Team": "Puneri Bappa",
+    "DOB": "25/10/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Aayush Raktade",
+    "Team": "Puneri Bappa",
+    "DOB": "25/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Neel Gandhi",
+    "Team": "Puneri Bappa",
+    "DOB": "26/01/06",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nikhil lunawat",
+    "Team": "Puneri Bappa",
+    "DOB": "08/07/06",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Abdus Salam",
+    "Team": "Puneri Bappa",
+    "DOB": "19/11/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Abhinav Tiwari",
+    "Team": "Puneri Bappa",
+    "DOB": "20/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sagar Pawar",
+    "Team": "Puneri Bappa",
+    "DOB": "07/10/04",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sachin Pawar",
+    "Team": "Puneri Bappa",
+    "DOB": "06/06/07",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Mayank Kashyap",
+    "Team": "Puneri Bappa",
+    "DOB": "15/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Piyush Salvi ",
+    "Team": "Puneri Bappa",
+    "DOB": "11/06/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  }
+]
