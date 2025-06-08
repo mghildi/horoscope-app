@@ -1,0 +1,149 @@
+[
+  {
+    "Player": "Ashutosh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Hurkat",
+    "Team": "Surguja Tigers",
+    "DOB": "31/07/99",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Anand Rao",
+    "Team": "Surguja Tigers",
+    "DOB": "09/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Gagandeep Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "11/09/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shubham Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/97",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Harsh Yadav",
+    "Team": "Surguja Tigers",
+    "DOB": "18/11/00",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Dhananjay Nayak",
+    "Team": "Surguja Tigers",
+    "DOB": "28/10/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Amitesh Pandey",
+    "Team": "Surguja Tigers",
+    "DOB": "17/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Amandeep Khare",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/08/97",
+    "Zodiac": "Leo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Anuj Tiwari",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/05/85",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Shreyam Sundram Kamal",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sahban Khan",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ashish Chouhan",
+    "Team": "Raipur Rhinos",
+    "DOB": "03/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Prashant Painkra",
+    "Team": "Raipur Rhinos",
+    "DOB": "08/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Sudhanshu Verma",
+    "Team": "Raipur Rhinos",
+    "DOB": "09/04/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Lavin Coster",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/12/92",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Kritesh Sahu",
+    "Team": "Raipur Rhinos",
+    "DOB": "24/08/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Amit Kumar Yadav",
+    "Team": "Raipur Rhinos",
+    "DOB": "11/11/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Arin Dwivedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Prabhash Shukla",
+    "Team": "Raipur Rhinos",
+    "DOB": "21/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Gaurav Chaturvedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "17/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "Player": "Anish Chaudhery",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "24/08/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ankolekar",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "26/09/00",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Varun Lavande",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "05/12/00",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Aaryaraj Nikam",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "05/06/05",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sairaj Patil",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "31/10/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Vinay Kunwar",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "22/04/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ajit Yadav",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "04/01/02",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shashank Attarde",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "04/11/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Shivansh Singh",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "29/10/06",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Harsh Tanna",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "09/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Harsh Salunkhe",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "22/06/04",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Aryan Chauhan",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "07/02/07",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Thakur",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "16/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Amartya Raje",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "20/02/08",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Nutan Goel",
+    "Team": "Eagle Thane Strikers",
+    "DOB": "14/08/05",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Prasad Pawar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/01/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shivam Dube",
+    "Team": "ARCS Andheri",
+    "DOB": "26/06/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Musheer Khan",
+    "Team": "ARCS Andheri",
+    "DOB": "27/02/05",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Raza Mirza",
+    "Team": "ARCS Andheri",
+    "DOB": "07/10/07",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Herwadkar",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Monil Soni",
+    "Team": "ARCS Andheri",
+    "DOB": "12/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Pragnesh Kanpillewar",
+    "Team": "ARCS Andheri",
+    "DOB": "29/09/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Onkar Jadhav",
+    "Team": "ARCS Andheri",
+    "DOB": "09/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aishwary Surve",
+    "Team": "ARCS Andheri",
+    "DOB": "31/10/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Ajay Mishra",
+    "Team": "ARCS Andheri",
+    "DOB": "01/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Himanshu Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "24/07/03",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Badrey Alam",
+    "Team": "ARCS Andheri",
+    "DOB": "07/05/92",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Deepak Shetty",
+    "Team": "ARCS Andheri",
+    "DOB": "28/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Siddid Tiwari",
+    "Team": "ARCS Andheri",
+    "DOB": "21/02/04",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Saksham Jha",
+    "Team": "ARCS Andheri",
+    "DOB": "09/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Prasoon Singh",
+    "Team": "ARCS Andheri",
+    "DOB": "10/10/08",
+    "Zodiac": "Libra",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Moin Naushad Ahmed",
+    "Team": "ARCS Andheri",
+    "DOB": "21/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Sandeep K",
+    "Team": "ARCS Andheri",
+    "DOB": "12/03/84",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  }
+]

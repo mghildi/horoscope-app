@@ -1,0 +1,198 @@
+[
+  {
+    "Player": "J Simpson",
+    "Team": "Sussex",
+    "DOB": "13/07/88",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tymal Mills",
+    "Team": "Sussex",
+    "DOB": "12/08/92",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Harrison Ward",
+    "Team": "Sussex",
+    "DOB": "25/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Daniel Hughes",
+    "Team": "Sussex",
+    "DOB": "16/02/89",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "James Coles",
+    "Team": "Sussex",
+    "DOB": "02/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Alsop",
+    "Team": "Sussex",
+    "DOB": "26/11/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Tom Clark",
+    "Team": "Sussex",
+    "DOB": "27/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Jack Carson",
+    "Team": "Sussex",
+    "DOB": "03/12/00",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "McAndrew",
+    "Team": "Sussex",
+    "DOB": "14/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Robinson",
+    "Team": "Sussex",
+    "DOB": "01/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Brad Currie",
+    "Team": "Sussex",
+    "DOB": "08/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Danny Lamb",
+    "Team": "Sussex",
+    "DOB": "07/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Henry Crocombe",
+    "Team": "Sussex",
+    "DOB": "20/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Bertie Foreman",
+    "Team": "Sussex",
+    "DOB": "13/05/04",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "George Thomas",
+    "Team": "Sussex",
+    "DOB": "14/11/03",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Kiran Carlson",
+    "Team": "Glamorgan",
+    "DOB": "16/05/98",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "C Cooke",
+    "Team": "Glamorgan",
+    "DOB": "30/05/86",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "William Smale",
+    "Team": "Glamorgan",
+    "DOB": "28/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ben Kellaway",
+    "Team": "Glamorgan",
+    "DOB": "05/01/04",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ingram",
+    "Team": "Glamorgan",
+    "DOB": "03/07/85",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Asa Tribe",
+    "Team": "Glamorgan",
+    "DOB": "29/03/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Daniel Douthwaite",
+    "Team": "Glamorgan",
+    "DOB": "08/02/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "van der Gugten",
+    "Team": "Glamorgan",
+    "DOB": "25/02/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Mason Crane",
+    "Team": "Glamorgan",
+    "DOB": "18/02/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Andy Gorvin",
+    "Team": "Glamorgan",
+    "DOB": "14/05/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jamie McIlroy",
+    "Team": "Glamorgan",
+    "DOB": "19/06/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Tom Bevan",
+    "Team": "Glamorgan",
+    "DOB": "30/11/88",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ned Leonard",
+    "Team": "Glamorgan",
+    "DOB": "15/08/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  }
+]
