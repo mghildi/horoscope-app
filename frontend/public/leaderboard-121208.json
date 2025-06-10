@@ -1,0 +1,107 @@
+[
+  {
+    "Player": "Ajay Mandal",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "25/02/96",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Ashish Dahariya",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "17/10/04",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sanjeet Desai",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "12/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aishwary Marya",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "21/02/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Sumit Ruikar",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "06/06/90",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Satyam Dubey",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "17/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jivesh Butte",
+    "Team": "Rajnandgaon Panthers",
+    "DOB": "27/01/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ashutosh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Hurkat",
+    "Team": "Surguja Tigers",
+    "DOB": "31/07/99",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Anand Rao",
+    "Team": "Surguja Tigers",
+    "DOB": "09/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Gagandeep Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "11/09/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shubham Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/97",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harsh Yadav",
+    "Team": "Surguja Tigers",
+    "DOB": "18/11/00",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Dhananjay Nayak",
+    "Team": "Surguja Tigers",
+    "DOB": "28/10/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Amitesh Pandey",
+    "Team": "Surguja Tigers",
+    "DOB": "17/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  }
+]

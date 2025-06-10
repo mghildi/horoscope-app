@@ -1,0 +1,331 @@
+[
+  {
+    "Player": "Suraj Shinde",
+    "Team": "Puneri Bappa",
+    "DOB": "18/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Yash Kshirsagar",
+    "Team": "Puneri Bappa",
+    "DOB": "17/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Yash Nahar",
+    "Team": "Puneri Bappa",
+    "DOB": "10/10/94",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Murtaza Trunkwala",
+    "Team": "Puneri Bappa",
+    "DOB": "20/06/96",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rushikesh Sonawane",
+    "Team": "Puneri Bappa",
+    "DOB": "12/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sahil Autade",
+    "Team": "Puneri Bappa",
+    "DOB": "01/08/04",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ramakrishna Ghosh",
+    "Team": "Puneri Bappa",
+    "DOB": "28/08/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Naushad Shaikh",
+    "Team": "Puneri Bappa",
+    "DOB": "15/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sachin Bhosale",
+    "Team": "Puneri Bappa",
+    "DOB": "02/01/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "N Dhumal",
+    "Team": "Puneri Bappa",
+    "DOB": "04/07/91",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Roshan Waghsare",
+    "Team": "Puneri Bappa",
+    "DOB": "07/09/03",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Rohan Kharat",
+    "Team": "Puneri Bappa",
+    "DOB": "05/06/02",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ruturaj Gaikwad",
+    "Team": "Puneri Bappa",
+    "DOB": "31/01/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Yash Jadhav",
+    "Team": "Puneri Bappa",
+    "DOB": "18/06/99",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Aarya Desai",
+    "Team": "Puneri Bappa",
+    "DOB": "03/04/03",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Sohan Jamale",
+    "Team": "Puneri Bappa",
+    "DOB": "25/10/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Aayush Raktade",
+    "Team": "Puneri Bappa",
+    "DOB": "25/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Neel Gandhi",
+    "Team": "Puneri Bappa",
+    "DOB": "26/01/06",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nikhil lunawat",
+    "Team": "Puneri Bappa",
+    "DOB": "08/07/06",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Abdus Salam",
+    "Team": "Puneri Bappa",
+    "DOB": "19/11/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Abhinav Tiwari",
+    "Team": "Puneri Bappa",
+    "DOB": "20/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sagar Pawar",
+    "Team": "Puneri Bappa",
+    "DOB": "07/10/04",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sachin Pawar",
+    "Team": "Puneri Bappa",
+    "DOB": "06/06/07",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Mayank Kashyap",
+    "Team": "Puneri Bappa",
+    "DOB": "15/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Piyush Salvi ",
+    "Team": "Puneri Bappa",
+    "DOB": "11/06/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Mandar Bhandari",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "15/06/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Prashant Solanki",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "22/02/00",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Arshin Kulkarni",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "15/02/05",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sahil Parakh",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "07/06/07",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rohan Damle",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "04/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Atharva Kale",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "21/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ranjeet Nikam",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "20/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Yogesh Dongre",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "31/12/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Kaushal Tambe",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "14/10/02",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Mukesh Choudhary",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "06/07/96",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Manoj Ingale",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "26/06/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Akshay Waikar",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "17/02/93",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Digvijay Deshmukh",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "12/04/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Siddhant Doshi",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "05/05/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rehan Khan",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "20/04/01",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Hari Sawant",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "10/07/03",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Razeq Fallah",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "02/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Pruthviraj Kand",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "05/08/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Balkrishana Kashid",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "06/08/99",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Adarsh Manure",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "20/02/99",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Sushrut Sawant",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "08/10/06",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Aniket Nalawade",
+    "Team": "Eagle Nashik Titans",
+    "DOB": "17/01/02",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  }
+]
