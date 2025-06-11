@@ -1,0 +1,212 @@
+[
+  {
+    "Player": "Markram",
+    "Team": "South Africa",
+    "DOB": "04/10/94",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rickelton",
+    "Team": "South Africa",
+    "DOB": "11/07/96",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Mulder",
+    "Team": "South Africa",
+    "DOB": "19/02/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Bavuma",
+    "Team": "South Africa",
+    "DOB": "17/05/90",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Stubbs",
+    "Team": "South Africa",
+    "DOB": "14/08/00",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Bedingham",
+    "Team": "South Africa",
+    "DOB": "22/04/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Verreynne",
+    "Team": "South Africa",
+    "DOB": "12/05/97",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Marco Jansen",
+    "Team": "South Africa",
+    "DOB": "01/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Maharaj",
+    "Team": "South Africa",
+    "DOB": "07/02/90",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Rabada",
+    "Team": "South Africa",
+    "DOB": "25/05/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Lungi Ngidi",
+    "Team": "South Africa",
+    "DOB": "29/03/96",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Tony de Zorzi",
+    "Team": "South Africa",
+    "DOB": "28/08/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Dane Paterson",
+    "Team": "South Africa",
+    "DOB": "04/04/89",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Senuran Muthusamy",
+    "Team": "South Africa",
+    "DOB": "22/02/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Corbin Bosch",
+    "Team": "South Africa",
+    "DOB": "10/09/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Khawaja",
+    "Team": "Australia",
+    "DOB": "18/12/86",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Labuschagne",
+    "Team": "Australia",
+    "DOB": "22/06/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Green",
+    "Team": "Australia",
+    "DOB": "03/06/99",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Steven Smith",
+    "Team": "Australia",
+    "DOB": "02/06/89",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Head",
+    "Team": "Australia",
+    "DOB": "29/12/93",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Webster",
+    "Team": "Australia",
+    "DOB": "01/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Alex Carey",
+    "Team": "Australia",
+    "DOB": "27/08/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Cummins",
+    "Team": "Australia",
+    "DOB": "08/05/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Mitchell Starc",
+    "Team": "Australia",
+    "DOB": "30/01/90",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Lyon",
+    "Team": "Australia",
+    "DOB": "20/11/87",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Hazlewood",
+    "Team": "Australia",
+    "DOB": "08/01/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Sam Konstas",
+    "Team": "Australia",
+    "DOB": "02/10/05",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Boland",
+    "Team": "Australia",
+    "DOB": "11/04/89",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Josh Inglis",
+    "Team": "Australia",
+    "DOB": "04/03/95",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "M Kuhnemann",
+    "Team": "Australia",
+    "DOB": "20/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  }
+]
