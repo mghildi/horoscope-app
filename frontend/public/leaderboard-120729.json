@@ -1,0 +1,114 @@
+[
+  {
+    "Player": "Rajat Patidar",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "01/06/93",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rakesh Thakur",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "10/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Suraj Yadav",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "19/03/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Parth Sahani",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "09/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Rishabh Chauhan",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "05/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harpreet Singh",
+    "Team": "Chambal Ghariyals",
+    "DOB": "11/08/91",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Pankaj Sharma",
+    "Team": "Chambal Ghariyals",
+    "DOB": "13/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aryan Pandey",
+    "Team": "Chambal Ghariyals",
+    "DOB": "23/01/04",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Ankush Singh",
+    "Team": "Chambal Ghariyals",
+    "DOB": "12/10/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shubham Sharma",
+    "Team": "Chambal Ghariyals",
+    "DOB": "24/12/93",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Tripuresh Singh",
+    "Team": "Chambal Ghariyals",
+    "DOB": "13/04/02",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Aman Bhadoriya",
+    "Team": "Chambal Ghariyals",
+    "DOB": "15/10/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Kuldeep Sen",
+    "Team": "Chambal Ghariyals",
+    "DOB": "22/10/96",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Rohit Rajawat",
+    "Team": "Chambal Ghariyals",
+    "DOB": "24/11/05",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Vineet Rawat",
+    "Team": "Chambal Ghariyals",
+    "DOB": "06/03/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Vishal Shrivas",
+    "Team": "Chambal Ghariyals",
+    "DOB": "01/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  }
+]

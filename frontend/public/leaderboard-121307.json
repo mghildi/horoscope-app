@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "Navneet Dhaliwal",
+    "Team": "Canada",
+    "DOB": "10/10/88",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Shreyas Movva",
+    "Team": "Canada",
+    "DOB": "04/09/93",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Jaskaran Singh",
+    "Team": "Canada",
+    "DOB": "04/09/89",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Saad Bin Zafar",
+    "Team": "Canada",
+    "DOB": "10/11/86",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Harsh Thaker",
+    "Team": "Canada",
+    "DOB": "24/10/97",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Dilon Heyliger",
+    "Team": "Canada",
+    "DOB": "21/10/89",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Nicholas Kirton",
+    "Team": "Canada",
+    "DOB": "06/05/98",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Ravinderpal Singh",
+    "Team": "Canada",
+    "DOB": "14/10/88",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Kaleem Sana",
+    "Team": "Canada",
+    "DOB": "01/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Aaron Johnson",
+    "Team": "Canada",
+    "DOB": "16/03/91",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Parveen Kumar",
+    "Team": "Canada",
+    "DOB": "29/05/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kanwarpal Tathgur",
+    "Team": "Canada",
+    "DOB": "05/08/93",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Yuvraj Samra",
+    "Team": "Canada",
+    "DOB": "29/09/06",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ali Nadeem",
+    "Team": "Canada",
+    "DOB": "09/11/92",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shivam Sharma",
+    "Team": "Canada",
+    "DOB": "27/03/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Marc Taylor",
+    "Team": "Bahamas",
+    "DOB": "20/03/90",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Gregory Taylor",
+    "Team": "Bahamas",
+    "DOB": "14/12/87",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Festus Benn",
+    "Team": "Bahamas",
+    "DOB": "22/08/82",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Julio Jemison",
+    "Team": "Bahamas",
+    "DOB": "24/02/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Dwight Wheatley",
+    "Team": "Bahamas",
+    "DOB": "16/12/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Renford Davson",
+    "Team": "Bahamas",
+    "DOB": "15/02/78",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Antonio Harris",
+    "Team": "Bahamas",
+    "DOB": "07/07/04",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Sandeep Goud",
+    "Team": "Bahamas",
+    "DOB": "19/02/84",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Jonathan Barry",
+    "Team": "Bahamas",
+    "DOB": "20/06/88",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kervon Hinds",
+    "Team": "Bahamas",
+    "DOB": "11/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Dwight Weakley",
+    "Team": "Bahamas",
+    "DOB": "19/12/69",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Eugene Duff",
+    "Team": "Bahamas",
+    "DOB": "18/09/88",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Javelle Gallimore",
+    "Team": "Bahamas",
+    "DOB": "09/12/04",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Akash Gulati",
+    "Team": "Bahamas",
+    "DOB": "20/05/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  }
+]

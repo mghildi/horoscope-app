@@ -1,0 +1,128 @@
+[
+  {
+    "Player": "Amandeep Khare",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/08/97",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Lavin Coster",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/12/92",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Amit Kumar Yadav",
+    "Team": "Raipur Rhinos",
+    "DOB": "11/11/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Anuj Tiwari",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/05/85",
+    "Zodiac": "Gemini",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Sahban Khan",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ashish Chouhan",
+    "Team": "Raipur Rhinos",
+    "DOB": "03/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Shreyam Sundram Kamal",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Sudhanshu Verma",
+    "Team": "Raipur Rhinos",
+    "DOB": "09/04/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Prashant Painkra",
+    "Team": "Raipur Rhinos",
+    "DOB": "08/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Kritesh Sahu",
+    "Team": "Raipur Rhinos",
+    "DOB": "24/08/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Arin Dwivedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Prabhash Shukla",
+    "Team": "Raipur Rhinos",
+    "DOB": "21/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Gaurav Chaturvedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "17/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shashank Chandrakar",
+    "Team": "Bastar Bisons",
+    "DOB": "13/05/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Sourabh Majumdar",
+    "Team": "Bastar Bisons",
+    "DOB": "04/02/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Sangeet Soni",
+    "Team": "Bastar Bisons",
+    "DOB": "30/06/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Avnish Dhaliwal",
+    "Team": "Bastar Bisons",
+    "DOB": "14/09/92",
+    "Zodiac": "Virgo",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Vijay Yadav",
+    "Team": "Bastar Bisons",
+    "DOB": "19/12/01",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  }
+]
