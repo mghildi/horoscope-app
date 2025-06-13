@@ -1,0 +1,107 @@
+[
+  {
+    "Player": "Harsh Gawali",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "09/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Avesh Khan",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "13/12/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Shantanu Raghuvanshi",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "11/06/00",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sagar Sharma",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "20/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Saumy Pandey",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "04/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Divyanshu Yadav",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "27/03/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Omkar Nath Singh",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "12/10/99",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Abhishek Pathak",
+    "Team": "Bundelkhand Bulls",
+    "DOB": "17/02/97",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Kumar Kartikeya",
+    "Team": "Rewa Jaguars",
+    "DOB": "26/12/97",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Mukul Raghav",
+    "Team": "Rewa Jaguars",
+    "DOB": "22/09/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Aryan Deshmukh",
+    "Team": "Rewa Jaguars",
+    "DOB": "04/01/03",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shivam Shukla",
+    "Team": "Rewa Jaguars",
+    "DOB": "11/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Sagar Solanki",
+    "Team": "Rewa Jaguars",
+    "DOB": "01/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Chanchal Rathore",
+    "Team": "Rewa Jaguars",
+    "DOB": "26/11/02",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Himanshu Mantri",
+    "Team": "Rewa Jaguars",
+    "DOB": "09/02/94",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  }
+]

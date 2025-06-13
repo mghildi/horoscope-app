@@ -1,0 +1,212 @@
+[
+  {
+    "Player": "Zuzana Franova",
+    "Team": "Czech Republic Women",
+    "DOB": "31/08/87",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Jana Kominkova",
+    "Team": "Czech Republic Women",
+    "DOB": "07/10/80",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Pratibha Choudhary",
+    "Team": "Czech Republic Women",
+    "DOB": "26/12/87",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Josephine Souckova",
+    "Team": "Czech Republic Women",
+    "DOB": "29/03/10",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Erika Kuncova",
+    "Team": "Czech Republic Women",
+    "DOB": "11/04/08",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Rachel Pavlickova",
+    "Team": "Czech Republic Women",
+    "DOB": "01/12/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Mansi Parmar",
+    "Team": "Czech Republic Women",
+    "DOB": "13/09/96",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sarka Kolcunova",
+    "Team": "Czech Republic Women",
+    "DOB": "05/05/09",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Klara Kisova",
+    "Team": "Czech Republic Women",
+    "DOB": "12/01/92",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Divya Mehtani",
+    "Team": "Czech Republic Women",
+    "DOB": "02/10/90",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Adela Pavlickova",
+    "Team": "Czech Republic Women",
+    "DOB": "11/08/81",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Jinnu Bahuleyan",
+    "Team": "Czech Republic Women",
+    "DOB": "13/04/94",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sowjanya Talamarla",
+    "Team": "Czech Republic Women",
+    "DOB": "17/03/85",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Michaela Trejbalova",
+    "Team": "Czech Republic Women",
+    "DOB": "03/06/97",
+    "Zodiac": "Gemini",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Olga Hamrikova",
+    "Team": "Czech Republic Women",
+    "DOB": "15/03/73",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tereza Kolcunova",
+    "Team": "Czech Republic Women",
+    "DOB": "25/06/07",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Amy Benatar",
+    "Team": "Gibraltar Women",
+    "DOB": "10/02/94",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Sally Barton",
+    "Team": "Gibraltar Women",
+    "DOB": "23/05/57",
+    "Zodiac": "Gemini",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Nikki Caruana",
+    "Team": "Gibraltar Women",
+    "DOB": "31/08/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Noelle Laguea",
+    "Team": "Gibraltar Women",
+    "DOB": "06/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Elizabeth Ferrary",
+    "Team": "Gibraltar Women",
+    "DOB": "20/09/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Rosaleen Reilly",
+    "Team": "Gibraltar Women",
+    "DOB": "31/03/78",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Lauren Payas",
+    "Team": "Gibraltar Women",
+    "DOB": "21/05/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Prabha Raghunath",
+    "Team": "Gibraltar Women",
+    "DOB": "06/04/78",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Helen Mumford",
+    "Team": "Gibraltar Women",
+    "DOB": "20/04/82",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Lauren Shephard",
+    "Team": "Gibraltar Women",
+    "DOB": "14/04/99",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Ariana Gianani",
+    "Team": "Gibraltar Women",
+    "DOB": "12/01/10",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Megan Mumford",
+    "Team": "Gibraltar Women",
+    "DOB": "04/08/08",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Hannah Trinidad",
+    "Team": "Gibraltar Women",
+    "DOB": "18/03/90",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Yanira Blagg",
+    "Team": "Gibraltar Women",
+    "DOB": "08/02/06",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  }
+]

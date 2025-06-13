@@ -1,0 +1,121 @@
+[
+  {
+    "Player": "Abhishek Bhandari",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "01/11/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Saransh Jain",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "31/03/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Dharmesh Patel",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "09/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ankit Kushwah",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "20/04/92",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rahul Batham",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "21/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ritesh Shakya",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "11/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Adheer Pratap Singh",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "04/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Anubhav Agarwal",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "31/10/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ritwik Diwan",
+    "Team": "Jabalpur Royal Lions",
+    "DOB": "09/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Yash Dubey",
+    "Team": "Bhopal Leopards",
+    "DOB": "23/12/98",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Arshad Khan",
+    "Team": "Bhopal Leopards",
+    "DOB": "20/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Aniket Verma",
+    "Team": "Bhopal Leopards",
+    "DOB": "05/02/02",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Goutam Raghuwanshi",
+    "Team": "Bhopal Leopards",
+    "DOB": "03/07/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Kamal Tripathi",
+    "Team": "Bhopal Leopards",
+    "DOB": "15/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Kuldeep Gehi",
+    "Team": "Bhopal Leopards",
+    "DOB": "28/01/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Madhav Tiwari",
+    "Team": "Bhopal Leopards",
+    "DOB": "28/09/03",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ayush Anand",
+    "Team": "Bhopal Leopards",
+    "DOB": "25/12/04",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  }
+]

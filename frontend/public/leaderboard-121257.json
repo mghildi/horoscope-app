@@ -1,0 +1,93 @@
+[
+  {
+    "Player": "Ashutosh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Hurkat",
+    "Team": "Surguja Tigers",
+    "DOB": "31/07/99",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Anand Rao",
+    "Team": "Surguja Tigers",
+    "DOB": "09/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Gagandeep Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "11/09/97",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Harsh Yadav",
+    "Team": "Surguja Tigers",
+    "DOB": "18/11/00",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Shubham Singh",
+    "Team": "Surguja Tigers",
+    "DOB": "05/01/97",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Amitesh Pandey",
+    "Team": "Surguja Tigers",
+    "DOB": "17/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Dhananjay Nayak",
+    "Team": "Surguja Tigers",
+    "DOB": "28/10/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rishabh Tiwari",
+    "Team": "Raigarh Lions",
+    "DOB": "01/09/93",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Mayank Verma",
+    "Team": "Raigarh Lions",
+    "DOB": "22/10/03",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shubham Agarwal",
+    "Team": "Raigarh Lions",
+    "DOB": "21/11/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Pawandeep Singh",
+    "Team": "Raigarh Lions",
+    "DOB": "05/07/92",
+    "Zodiac": "Cancer",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Aayush Thakur",
+    "Team": "Raigarh Lions",
+    "DOB": "23/11/02",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 7
+  }
+]
