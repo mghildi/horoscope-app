@@ -1,0 +1,93 @@
+[
+  {
+    "Player": "Kumar Kartikeya",
+    "Team": "Rewa Jaguars",
+    "DOB": "26/12/97",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Mukul Raghav",
+    "Team": "Rewa Jaguars",
+    "DOB": "22/09/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sagar Solanki",
+    "Team": "Rewa Jaguars",
+    "DOB": "01/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Shivam Shukla",
+    "Team": "Rewa Jaguars",
+    "DOB": "11/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Aryan Deshmukh",
+    "Team": "Rewa Jaguars",
+    "DOB": "04/01/03",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Himanshu Mantri",
+    "Team": "Rewa Jaguars",
+    "DOB": "09/02/94",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Chanchal Rathore",
+    "Team": "Rewa Jaguars",
+    "DOB": "26/11/02",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Parth Sahani",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "09/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rakesh Thakur",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "10/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Suraj Yadav",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "19/03/97",
+    "Zodiac": "Pisces",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Vikas Sharma",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "08/12/04",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Rishabh Chauhan",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "05/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Rajat Patidar",
+    "Team": "Gwalior Cheetahs",
+    "DOB": "01/06/93",
+    "Zodiac": "Gemini",
+    "PredictionScale": 9
+  }
+]

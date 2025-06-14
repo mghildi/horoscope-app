@@ -1,0 +1,219 @@
+[
+  {
+    "Player": "Hayley Matthews",
+    "Team": "West Indies Women",
+    "DOB": "19/03/98",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Shemaine Campbelle",
+    "Team": "West Indies Women",
+    "DOB": "14/10/92",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Qiana Joseph",
+    "Team": "West Indies Women",
+    "DOB": "01/01/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Realeanna Grimmond",
+    "Team": "West Indies Women",
+    "DOB": "24/02/05",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Stafanie Taylor",
+    "Team": "West Indies Women",
+    "DOB": "11/06/91",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Chinelle Henry",
+    "Team": "West Indies Women",
+    "DOB": "17/08/95",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jannillea Glasgow",
+    "Team": "West Indies Women",
+    "DOB": "05/01/04",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Aaliyah Alleyne",
+    "Team": "West Indies Women",
+    "DOB": "11/11/94",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Zaida James",
+    "Team": "West Indies Women",
+    "DOB": "30/10/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Afy Fletcher",
+    "Team": "West Indies Women",
+    "DOB": "17/03/87",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Karishma Ramharack",
+    "Team": "West Indies Women",
+    "DOB": "20/01/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shabika Gajnabi",
+    "Team": "West Indies Women",
+    "DOB": "14/07/00",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Mandy Mangru",
+    "Team": "West Indies Women",
+    "DOB": "22/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Ashmini Munisar",
+    "Team": "West Indies Women",
+    "DOB": "07/12/03",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jahzara Claxton",
+    "Team": "West Indies Women",
+    "DOB": "12/03/06",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Laura Wolvaardt",
+    "Team": "South Africa Women",
+    "DOB": "26/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Sinalo Jafta",
+    "Team": "South Africa Women",
+    "DOB": "22/12/94",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Tazmin Brits",
+    "Team": "South Africa Women",
+    "DOB": "08/01/91",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shangase",
+    "Team": "South Africa Women",
+    "DOB": "05/04/96",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Sune Luus",
+    "Team": "South Africa Women",
+    "DOB": "05/01/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Annerie Dercksen",
+    "Team": "South Africa Women",
+    "DOB": "26/04/01",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Chloe Tryon",
+    "Team": "South Africa Women",
+    "DOB": "25/01/94",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Nadine de Klerk",
+    "Team": "South Africa Women",
+    "DOB": "16/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ayabonga Khaka",
+    "Team": "South Africa Women",
+    "DOB": "18/07/92",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Nonkululeko Mlaba",
+    "Team": "South Africa Women",
+    "DOB": "27/06/00",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Ayanda Hlubi",
+    "Team": "South Africa Women",
+    "DOB": "16/07/04",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Karabo Meso",
+    "Team": "South Africa Women",
+    "DOB": "18/09/07",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Miane Smit",
+    "Team": "South Africa Women",
+    "DOB": "02/02/05",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sekhukhune",
+    "Team": "South Africa Women",
+    "DOB": "21/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Masabata Klaas",
+    "Team": "South Africa Women",
+    "DOB": "03/02/91",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Marizanne Kapp",
+    "Team": "South Africa Women",
+    "DOB": "04/01/90",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  }
+]

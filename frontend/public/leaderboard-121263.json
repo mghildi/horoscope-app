@@ -1,0 +1,191 @@
+[
+  {
+    "Player": "Aayush Pandey",
+    "Team": "Bilaspur Bulls",
+    "DOB": "19/09/03",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Harsh Sahu",
+    "Team": "Bilaspur Bulls",
+    "DOB": "18/07/03",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Mohammad Irfan",
+    "Team": "Bilaspur Bulls",
+    "DOB": "01/01/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Prateek Yadav",
+    "Team": "Bilaspur Bulls",
+    "DOB": "16/02/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Shashank Singh",
+    "Team": "Bilaspur Bulls",
+    "DOB": "21/11/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Mohit Raut",
+    "Team": "Bilaspur Bulls",
+    "DOB": "20/01/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Varun Singh Bhue",
+    "Team": "Bilaspur Bulls",
+    "DOB": "02/04/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Rudra Pratap",
+    "Team": "Bilaspur Bulls",
+    "DOB": "01/01/01",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ravi Roshan Singh",
+    "Team": "Bilaspur Bulls",
+    "DOB": "01/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Harsh Rathore",
+    "Team": "Bilaspur Bulls",
+    "DOB": "01/01/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Shahbaz Hussain",
+    "Team": "Bilaspur Bulls",
+    "DOB": "09/12/96",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Anurag Mishra",
+    "Team": "Bilaspur Bulls",
+    "DOB": "10/09/05",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Aditya Shrivastava Jr",
+    "Team": "Bilaspur Bulls",
+    "DOB": "22/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Bharat Gondwani",
+    "Team": "Bilaspur Bulls",
+    "DOB": "06/02/05",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Amandeep Khare",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/08/97",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Kritesh Sahu",
+    "Team": "Raipur Rhinos",
+    "DOB": "24/08/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Amit Kumar Yadav",
+    "Team": "Raipur Rhinos",
+    "DOB": "11/11/08",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Anuj Tiwari",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/05/85",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Shreyam Sundram Kamal",
+    "Team": "Raipur Rhinos",
+    "DOB": "27/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Gaurav Chaturvedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "17/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Sudhanshu Verma",
+    "Team": "Raipur Rhinos",
+    "DOB": "09/04/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sahban Khan",
+    "Team": "Raipur Rhinos",
+    "DOB": "05/12/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Lavin Coster",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/12/92",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Prashant Painkra",
+    "Team": "Raipur Rhinos",
+    "DOB": "08/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Ashish Chouhan",
+    "Team": "Raipur Rhinos",
+    "DOB": "03/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Arin Dwivedi",
+    "Team": "Raipur Rhinos",
+    "DOB": "13/11/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Prabhash Shukla",
+    "Team": "Raipur Rhinos",
+    "DOB": "21/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  }
+]

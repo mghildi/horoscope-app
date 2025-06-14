@@ -1,0 +1,219 @@
+[
+  {
+    "Player": "Seifert",
+    "Team": "San Francisco Unicorns",
+    "DOB": "14/12/94",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "CJ Anderson",
+    "Team": "San Francisco Unicorns",
+    "DOB": "13/12/90",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Finn Allen",
+    "Team": "San Francisco Unicorns",
+    "DOB": "22/04/99",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Jake Fraser-McGurk",
+    "Team": "San Francisco Unicorns",
+    "DOB": "11/04/02",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Sanjay Krishnamurthi",
+    "Team": "San Francisco Unicorns",
+    "DOB": "02/06/03",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Cooper Connolly",
+    "Team": "San Francisco Unicorns",
+    "DOB": "22/08/03",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Hassan Khan",
+    "Team": "San Francisco Unicorns",
+    "DOB": "16/10/98",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Plunkett",
+    "Team": "San Francisco Unicorns",
+    "DOB": "06/04/85",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Xavier Bartlett",
+    "Team": "San Francisco Unicorns",
+    "DOB": "17/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Carmi le Roux",
+    "Team": "San Francisco Unicorns",
+    "DOB": "30/03/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Haris Rauf",
+    "Team": "San Francisco Unicorns",
+    "DOB": "07/11/93",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Callum Stow",
+    "Team": "San Francisco Unicorns",
+    "DOB": "27/08/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Juanoy Drysdale",
+    "Team": "San Francisco Unicorns",
+    "DOB": "05/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Brody Couch",
+    "Team": "San Francisco Unicorns",
+    "DOB": "05/12/99",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Karima Gore",
+    "Team": "San Francisco Unicorns",
+    "DOB": "25/06/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Matthew Short",
+    "Team": "San Francisco Unicorns",
+    "DOB": "08/11/95",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Narine",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "26/05/88",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Chand",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "26/03/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Hales",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "03/01/89",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Andre Fletcher",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "28/11/87",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "NR Kumar",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "21/05/94",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Saif Badar",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "03/07/98",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Corne Dry",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "04/02/93",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "van Schalkwyk",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "05/08/88",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Ali Khan",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "13/12/90",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "T Sangha",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "26/11/01",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Dominic Drakes",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "06/02/98",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Russell",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "29/04/88",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Karthik Gattepalli",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "25/04/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Matthew Tromp",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "01/04/05",
+    "Zodiac": "Aries",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Adithya Ganesh",
+    "Team": "Los Angeles Knight Riders",
+    "DOB": "09/10/91",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  }
+]
